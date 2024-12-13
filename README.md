@@ -21,7 +21,11 @@
 
 - 💬 Ask me about **Frontend technology**
 
-- 📫 How to reach me **abhisheknamdev9171@gmail.com** 
+- 📫 How to reach me **abhisheknamdev9171@gmail.com**
+
+-  📫 How to reach me **https://dazzling-empanada-8b3235.netlify.app/**
+
+-  📫 How to reach me **https://www.linkedin.com/in/abhishek-namdev-software-engineer/**
 
 - ⚡ Fun fact **I am funny!**
 
