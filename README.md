@@ -15,15 +15,15 @@
 
 ✔️ 🌱 I’m currently learning **Node js ,Mongodb, Express Js**
 
+✔️ 🌱 I am also a freelancer worked on many project a as frontend deverloper **
+
 ✔️ Let's connect and collaborate!
 
-
+-  📫 My-Portfolio **https://unrivaled-caramel-6a172b.netlify.app/**
 
 - 💬 Ask me about **Frontend technology**
 
 - 📫 How to reach me **abhisheknamdev9171@gmail.com**
-
--  📫 My-Portfolio **https://unrivaled-caramel-6a172b.netlify.app/**
 
 -  📫 Linkdin **https://www.linkedin.com/in/abhishek-namdev-software-engineer/**
 
