@@ -6,7 +6,7 @@
 
   🌱 About myself 
 
-✔️ I am Abhishek Namdev, a passionate Software Developer and a IT graduate from Govt Igec collage sager MP.
+✔️ I am Abhishek Namdev, a passionate Frontend Developer and a IT graduate from Govt Igec collage sager MP.
 
 ✔️ My interests lie in frontend development and software development and As a fresher engineer, I am excited to introduce myself and take my first step into the professional world. I have always been fascinated by the field of engineering, and I am eager to contribute my skills and knowledge to make a positive impact.
 
